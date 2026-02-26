@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Рязанской области «Об областном бюджете на 2026 год и на плановый период 2027 и 2028 годов»
+Document type: Закон
+Number: 7-ОЗ
+Date signed: 2026-02-26
+Publication date: 2026-02-26
+Publication number: 6200202602260001
+Signing body: Рязанская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/6200202602260001
