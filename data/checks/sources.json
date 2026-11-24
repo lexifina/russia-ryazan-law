@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-ryazan",
+   "kind": "legislation",
+   "name": {
+    "en": "Ryazan Oblast: Official Internet Portal of Legal Information (region62)",
+    "ru": "Ryazan Oblast: Официальный интернет-портал правовой информации (region62)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region62",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/ryazan/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-ryazan-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
