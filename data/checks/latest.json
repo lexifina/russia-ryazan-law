@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:41:32Z",
+ "generated": "2026-11-25T07:02:12Z",
  "latest": {
   "pravo-ryazan|russia/ryazan/acts": {
    "attempt": 1,
@@ -13,34 +13,25 @@
    },
    "census": {
     "checked": 1370,
-    "current": 1366,
+    "current": 1370,
     "gone": 0,
-    "held": 1366,
-    "newest_in_repo": "2026-10-27",
-    "pending": 4,
-    "repo": 1366,
+    "held": 1370,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 1370,
     "source_in_scope": 1370
    },
-   "check_id": "ru-pravo-ryazan-20261124T143855Z",
-   "commits": {
-    "count": 3,
-    "from": "ab7a6f1e0d33a2ca535e01b42f09c2a84c2fee08",
-    "to": "07e1361f76190ee97fd4bbb201a7168a41fb1770"
-   },
+   "check_id": "ru-pravo-ryazan-20261125T062924Z",
+   "commits": null,
    "corpus": "russia/ryazan/acts",
    "error": null,
-   "finished": "2026-11-24T14:41:31Z",
+   "finished": "2026-11-25T06:30:10Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region62: 1370 law-type documents listed (every page read); 1366 held here; 4 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region62: 1370 law-type documents listed (every page read); 1370 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "6200202611020001",
-     "6200202611020002",
-     "6200202611060001",
-     "6200202611060002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -48,31 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "6200202611020001",
-     "6200202611020002",
-     "6200202611060001",
-     "6200202611060002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1370 law-type documents in block region62; newest published 2026-11-06",
    "source": "pravo-ryazan",
-   "started": "2026-11-24T14:38:55Z",
+   "started": "2026-11-25T06:29:24Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
